@@ -1,0 +1,16 @@
+{
+  "name": "hspm",
+  "version": "1.0.1",
+  "description": "Hobe's Package Manager",
+  "main": "hpm.cjs",
+  "bin": {
+    "hspm": "hpm.cjs"
+  },
+  "keywords": ["package-manager", "hpm", "npm-alternative"],
+  "author": "hobexkul",
+  "license": "MIT",
+  "dependencies": {
+    "tar": "^6.1.11",
+    "zlib": "latest"
+  }
+}
