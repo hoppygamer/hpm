@@ -1,6 +1,6 @@
 {
-  "name": "hspm",
-  "version": "1.0.1",
+  "name": "hpm",
+  "version": "1.0.0",
   "description": "Hobe's Package Manager",
   "main": "hpm.cjs",
   "bin": {
