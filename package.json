@@ -4,7 +4,7 @@
   "description": "Hobe's Package Manager",
   "main": "hpm.cjs",
   "bin": {
-    "hspm": "hpm.cjs"
+    "hpm": "hpm.cjs"
   },
   "keywords": ["package-manager", "hpm", "npm-alternative"],
   "author": "hobexkul",
